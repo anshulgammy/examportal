@@ -1,0 +1,44 @@
+{
+	"questions": {
+		"q1": {
+			"questionText": "What is Shah Rukh Khan well known for?",
+			"opt1": "Doctor",
+			"opt2": "Engineer",
+			"opt3": "Actor",
+			"opt4": "Architect",
+			"answer": "Actor"		
+		},
+		"q2": {
+			"questionText": "What is DR BC Roy well known for?",
+			"opt1": "Doctor",
+			"opt2": "Engineer",
+			"opt3": "Actor",
+			"opt4": "Architect",
+			"answer": "Doctor"		
+		},
+		"q3": {
+			"questionText": "What is Albert Einstein well known for?",
+			"opt1": "Doctor",
+			"opt2": "Engineer",
+			"opt3": "Scientist",
+			"opt4": "Architect",
+			"answer": "Scientist"
+		},
+		"q4": {
+			"questionText": "What is Laloo Yadav well known for?",
+			"opt1": "Politician",
+			"opt2": "Engineer",
+			"opt3": "Scientist",
+			"opt4": "Architect",
+			"answer": "Politician"
+		},
+		"q5": {
+			"questionText": "What is Bill Gates well known for?",
+			"opt1": "Politician",
+			"opt2": "Engineer",
+			"opt3": "Scientist",
+			"opt4": "Entrepreneur",
+			"answer": "Entrepreneur"
+		}	
+	}
+}

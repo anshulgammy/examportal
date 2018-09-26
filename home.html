@@ -1,0 +1,38 @@
+<html>
+<head>
+  <title>Exam Giving Portal</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="bootstrap.min.css" />
+  <script src="jquery.min.js"></script>
+  <script src="script.js"></script>
+  <style>
+	.questionButtonItem {
+		margin-left: 10px;
+		background-color: blue;
+	}  
+  </style>
+</head>
+
+<body>
+	<header class="container">
+	  <h1>Exam Giving Portal</h1>
+	</header>
+
+	<div class="container">
+		<div id="timerSection" class="timerSection">
+		
+		</div>
+		<div id="startExamSection" class="startExamSection">
+			<button type="button" class="btn btn-primary" onclick="loadQuestions();">Start Exam!</button>
+		</div>
+		
+		<div id="questionButtons" class="questionButtons">
+		</div>
+	</div>
+
+	<footer style="position: fixed; bottom: 0; text-align: center; width:100%;">
+	  <p>TechBrunch. All rights reserved.</p>
+	</footer>
+</body>
+</html>
